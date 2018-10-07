@@ -1,1 +1,1 @@
-print("Hello")
+print("Turtles are better than corgis!")
